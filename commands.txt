@@ -1,0 +1,2 @@
+docker build --tag coin .
+docker run --publish 8000:8000 coin
